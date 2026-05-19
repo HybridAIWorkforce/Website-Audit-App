@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerability
+    url: https://github.com/your-org/website-audit-app/security/advisories/new
+    about: Please report security vulnerabilities here.
+  - name: Documentation Issue
+    url: https://github.com/your-org/website-audit-app/issues
+    about: Report documentation issues here.
